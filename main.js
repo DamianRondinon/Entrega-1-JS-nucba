@@ -27,4 +27,7 @@ function pizza(array) {
 }
 
 pizza(ingredientes);
+console.log("\n Ingredientes Pares:");
 console.log(par);
+console.log("\n Array Impares:");
+console.log(impar);
